@@ -1,10 +1,10 @@
 cask "noden" do
-  version "1.0"
-  sha256 "2eb5665ee94c368911da4f5bf9831165b61e5f3476cfc833348803e51baa6a2a"
+  version "1.1.1"
+  sha256 "37289860600a429b418f685bde2287585b0efa0ec06134058e8d510ded4cbbaa"
 
   url "https://noden.useroamteknoloji.com/downloads/Noden-#{version}.dmg"
   name "Noden"
-  desc "Native SSH and SFTP client with an AI command assistant"
+  desc "Native SSH, SFTP and RDP client with an AI command assistant"
   homepage "https://noden.useroamteknoloji.com/"
 
   livecheck do
