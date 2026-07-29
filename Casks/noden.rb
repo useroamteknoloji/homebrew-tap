@@ -1,6 +1,6 @@
 cask "noden" do
-  version "1.1.8"
-  sha256 "d923edb8152f8723aa4e95df1cda77212892f0e0be2d9e60c04a3b35e5b9e9cd"
+  version "1.1.9"
+  sha256 "0435423b98add8f740c4ffb30260c6f9077dd5923baa60754e7199e425c1085c"
 
   url "https://noden.useroamteknoloji.com/downloads/Noden-#{version}.dmg"
   name "Noden"
