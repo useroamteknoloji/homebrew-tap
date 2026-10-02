@@ -1,6 +1,6 @@
 # Useroam Teknoloji Homebrew Tap
 
-Official Homebrew tap for [Noden](https://noden.useroamteknoloji.com/) and other Useroam Teknoloji macOS applications.
+Official Homebrew tap for [Noden](https://nodenapp.com/) and other Useroam Teknoloji macOS applications.
 
 ## Install Noden
 
